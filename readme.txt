@@ -6,3 +6,7 @@ Features:
 > Log in using either a student or an admin account
 > Enlisting in a class, dropping classes, viewing available classes, searching for classes for student users
 > Adding classes, removing classes, viewing all available classes for admin accounts
+
+Notes:
+> Accounts cannot be registered. Manually add accounts in admins.txt or students.txt following the format in notes.txt
+> The formats for how data are recorded in text files are in notes.txt
