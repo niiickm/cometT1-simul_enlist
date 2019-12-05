@@ -1,0 +1,13 @@
+FORMATS FOR FILES
+
+Student format: 3 lines
+<username> <password> <nickname>
+<classes>
+<coursesTaken>
+
+Admin format: 1 line
+<username> <password> <nickname>
+
+Classes format: 2 lines
+<classCode> <classCourse> <nUnits> <class_name> <class_Prof> <classSection> <classDay> <classStart> <classEnd> <classRoom> <classCap> <classNStudents>
+<coursePreReqs>

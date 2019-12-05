@@ -1,0 +1,18 @@
+00001 CCICOMP 3 Introduction_to_Computing Roger_Uy S12 TH 1245 1415 G204 40 2
+
+00002 CCICOMP 3 Introduction_to_Computing Roger_Uy S13 TH 1430 1600 G204 40 0
+
+00003 CCICOMP 3 Introduction_to_Computing Roger_Uy S14 TH 1615 1745 G208 35 0
+
+00004 GEMATMW 3 Math_in_the_Modern_World Mayna_Sira S12 TH 1430 1600 G205 40 0
+BASMATH
+00005 GEMATMW 3 Math_in_the_Modern_World Mayna_Sira S13 TH 1245 1415 G205 40 0
+BASMATH
+00006 GEMATMW 3 Math_in_the_Modern_World Mays_Umabit S14 TH 1245 1415 G207 35 0
+BASMATH
+00007 CSALGCM 3 Algorithms_and_Complexities Neil_DelGallego S12 TH 0915 1045 G210 40 0
+CCDSALG
+00008 CSALGCM 3 Algorithms_and_Complexities Neil_DelGallego S13 TH 1100 1230 G210 40 0
+CCDSALG
+00009 GEDANCE 2 Physical_Fitness_and_Wellness_in_Dance Pik_Unin S12 M 0730 0930 R1006 40 0
+GEFTWEL
