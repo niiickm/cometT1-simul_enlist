@@ -8,5 +8,5 @@ Features:
 > Adding classes, removing classes, viewing all available classes for admin accounts
 
 Notes:
-> Accounts cannot be registered. Manually add accounts in admins.txt or students.txt following the format in notes.txt
+> Accounts cannot be registered within the program. Please manually add accounts in admins.txt or students.txt following the format in notes.txt
 > The formats for how data are recorded in text files are in notes.txt
